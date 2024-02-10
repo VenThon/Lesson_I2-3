@@ -1,0 +1,5 @@
+new project 
+1. crud in data work it group
+2. book store management( title, price, name, date, ...)
+3. for history( mudule name, feature name, time name)
+4. for recording tools( OBS studio, fastStone capture tool)
